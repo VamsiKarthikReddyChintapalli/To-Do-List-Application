@@ -2,7 +2,7 @@ Decription: A To-Do application typically allows users to create, manage, and or
 
 Used Languages: The main language used to create a To-do application is Java and to store the organized list I have used SQLite as local storage.
 
-Features: The features of the applicaion are the user can store the activity/task that he/she wanted to complete. After completion of the task the user can chechbox it can delete as and when needed. The user can also modify the content by sliding the taskbar to the right, and to delete user have to swipe left.
+Features: The features of the applicaion are the user can store the activity/task that he/she wanted to complete. After completion of the task the user can chechbox it can delete as and when needed. The user can also modify the content by sliding the taskbar to the left, and to delete user have to swipe right.
 
 IDE: To develop the application the platform used is Android Studio. Android Studio is the official integrated development environment for Google's Android operating system, built on JetBrains' IntelliJ IDEA software and designed specifically for Android development. 
 
